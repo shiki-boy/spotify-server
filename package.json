@@ -14,6 +14,6 @@
     "node":"10.15.3"
   },
   "scripts": {
-    "start":"authorization_code/node app.js"
+    "start":"node authorization_code/app.js"
   }
 }
